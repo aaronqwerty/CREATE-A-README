@@ -1,34 +1,37 @@
-# THIS IS MY TITLE
+# AUTOMATING README CREATIONS
 ![License: Unlicense](https://img.shields.io/badge/license-Unlicense-blue.svg)<br />
 <br />    
 ## Description
-This is the description, here I can describe the purpose of the app/website which is being created.<br /><br />Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.<br />
+This app guides a user through the process of creating a README file and generating it for them.<br />
+The user simply follows the instructions using the JSON inquirer package.<br />
 <br />
 ## Table of Contents
 * [Installation](#installation)
 * [Usage](#usage)
 * [License](#license)
-* [Contributing](#contributing)
+* [Screenshots](#Screenshots)
+* [Demonstration](#Demonstration)
 * [Tests](#tests)
 * [Questions](#questions)
 <br />
-<br />
 ## Installation
-Installation instructions can be found here.<br /><br />Step 1. Sed ut perspiciatis unde omnis iste natus<br />Step 2. Sed quia consequuntur magni dolores eos<br />Step 3. Sed quia non numquam eius modi tempora<br />
+Prior to using the app, a user will be required to install the JSON packages included in the application.<br />
 <br />
 ## Usage
-Usage information will be provided here.<br />* Sed ut perspiciatis unde omnis iste natus<br />* Sed quia consequuntur magni dolores eos<br />* Sed quia non numquam eius modi tempora<br />
+The user should open the index.js file in Integrated Terminal, then type 'node index.js', this will start the app.<br />
+The user should then follow the instructions, and in a few simple steps they will have a README file.<br />
 <br />
 ## Licence    
 ![License: Unlicense](https://img.shields.io/badge/license-Unlicense-blue.svg)<br />
 Name: The Unlicense<br />
 Further information about this licence can be found here; http://unlicense.org/<br />
 <br />
-## Contributing
-Contributing information will be provided here.<br />Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.<br />
+## Screenshots
+![Screenshot of Index File](./images/Screenshot.png "Screenshot of Index File")<br />
 <br />
-## Tests
-Test instructions will be provided here.<br />a) Sed ut perspiciatis unde omnis iste natus<br />b) Sed quia consequuntur magni dolores eos<br />c) Sed quia non numquam eius modi tempora<br />
+
+## Demonstration
+[Video Demonstration](https://drive.google.com/file/d/1njjq8iqve4ikWYmgDiY-uW8ORfemJjYA/view?usp=share_link)<br />
 <br />
 ## Questions
 If you have any questions or comments about this README, please contact me via email; [aaron.raikes@gmail.com](mailto:aaron.raikes@gmail.com)<br />
